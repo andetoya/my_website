@@ -6,4 +6,4 @@ slug: blogs
 title: Lifestyle
 ---
 
-My blogs about work done in DBS class.
+My blogs about technology and lifestyle.

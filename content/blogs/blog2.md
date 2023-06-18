@@ -58,4 +58,3 @@ ggplot(filtered_transactions, aes(x = amt, fill = tran_cat)) +
   xlim(0, 200) 
 Warning: Removed 31953 rows containing non-finite values (`stat_density()`).
 
-knitr::include_graphics("/img/creditfraud.jpg",error=FALSE)

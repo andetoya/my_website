@@ -3,11 +3,11 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: XXXXXX
+description: Analysis of mass shootings in USA by race
 
 draft: false
-image: MassShotting.png
+image: mass.png
 keywords: ""
-slug: Mass Shootings By Race
+slug: massshootings
 title: Mass Shooting By Race
 ---

@@ -8,7 +8,7 @@ draft: false
 image: colombia.jpg
 keywords: ""
 slug: tempus
-title: Tempus
+title: Colombia
 ---
 
 Exploring the Wonders of Colombia

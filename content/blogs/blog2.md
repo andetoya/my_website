@@ -5,10 +5,10 @@ categories:
 date: "2017-10-31T22:26:09-05:00"
 description: Analysis of Credit Card Fraud
 draft: false
-image: pic09.jpg
+image: creditfraud.jpg
 keywords: ""
 slug: magna
-title: Magna
+title: Credit Fraud Analysis
 ---
 
 Exploring credit card fraud

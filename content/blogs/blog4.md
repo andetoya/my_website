@@ -27,3 +27,5 @@ ggplot(shoot_per_race, aes(x = reorder(race, -shootings), y = shootings)) +
   geom_bar(stat = "identity", fill = "steelblue") +
   labs(x = "Race Category", y = "Number of Shooters") +
   ggtitle("Number of Mass Shooters by Race") + geom_text(aes(label = shootings), vjust = -0.5, color = "black")
+
+knitr::include_graphics("/img/mass.jpg",error=FALSE)

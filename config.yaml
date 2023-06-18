@@ -82,9 +82,9 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: DBS Analysis
+        title: DBS Analysis
+        url: blogs/massshootings
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus

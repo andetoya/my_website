@@ -85,15 +85,15 @@ params:
         subtitle: DSB Analysis
         title: DBS Analysis
         url: blogs/massshootings
-      - image: pic02.jpg
+      - image: data.jpg
         subtitle: Analysis of Credit Card Fraud
         title: Second Analysis DSB
         url: blogs/magna
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: colombia.png
+        subtitle: Some info about my country
+        title: Colombia
         url: blogs/magna
-      - image: pic04.jpg
+      - image: padel.jpg
         subtitle: Watch some highlights from the semifinal of the most recent padel tournament
         title: Padel
         url: blogs/ipsum

@@ -11,4 +11,4 @@ slug: ipsum
 title: Padel tennis video
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lrBYZ6xkfFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-J7dki25AU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

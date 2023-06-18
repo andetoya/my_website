@@ -92,7 +92,7 @@ params:
       - image: colombia.png
         subtitle: Some info about my country
         title: Colombia
-        url: blogs/magna
+        url: blogs/tempus
       - image: padel.jpg
         subtitle: Watch some highlights from the semifinal of the most recent padel tournament
         title: Padel
